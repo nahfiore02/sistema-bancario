@@ -27,4 +27,4 @@ Projeto baseado no desafio da DIO, utilizando estrutura procedural e funções p
 2. Execute o arquivo principal no terminal:
 
 ```bash
-python sistema_bancario.py
+python Sistema_bancario.py
